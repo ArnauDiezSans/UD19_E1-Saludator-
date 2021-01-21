@@ -1,0 +1,10 @@
+C:\Users\Arnau\source\repos\UD19\UD19\bin\Debug\UD19.exe.config
+C:\Users\Arnau\source\repos\UD19\UD19\bin\Debug\UD19.exe
+C:\Users\Arnau\source\repos\UD19\UD19\bin\Debug\UD19.pdb
+C:\Users\Arnau\source\repos\UD19\UD19\obj\Debug\UD19.csprojAssemblyReference.cache
+C:\Users\Arnau\source\repos\UD19\UD19\obj\Debug\UD19.Form1.resources
+C:\Users\Arnau\source\repos\UD19\UD19\obj\Debug\UD19.Properties.Resources.resources
+C:\Users\Arnau\source\repos\UD19\UD19\obj\Debug\UD19.csproj.GenerateResource.cache
+C:\Users\Arnau\source\repos\UD19\UD19\obj\Debug\UD19.csproj.CoreCompileInputs.cache
+C:\Users\Arnau\source\repos\UD19\UD19\obj\Debug\UD19.exe
+C:\Users\Arnau\source\repos\UD19\UD19\obj\Debug\UD19.pdb
